@@ -1,6 +1,6 @@
 import pygame
 
-from .config import BALL_HEIGHT, BALL_WIDTH, BLUE, WIN_HEIGHT, WIN_WIDTH, DIRECTION_X, DIRECTION_Y
+from .config import BALL_HEIGHT, BALL_WIDTH, BLUE, WIN_HEIGHT, WIN_WIDTH
 
 
 class Ball:
